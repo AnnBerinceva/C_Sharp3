@@ -1,0 +1,15 @@
+C:\Users\SoulStrike\Desktop\HWC#_8\Task_54\bin\Debug\net6.0\Task_54.exe
+C:\Users\SoulStrike\Desktop\HWC#_8\Task_54\bin\Debug\net6.0\Task_54.deps.json
+C:\Users\SoulStrike\Desktop\HWC#_8\Task_54\bin\Debug\net6.0\Task_54.runtimeconfig.json
+C:\Users\SoulStrike\Desktop\HWC#_8\Task_54\bin\Debug\net6.0\Task_54.dll
+C:\Users\SoulStrike\Desktop\HWC#_8\Task_54\bin\Debug\net6.0\Task_54.pdb
+C:\Users\SoulStrike\Desktop\HWC#_8\Task_54\obj\Debug\net6.0\Task_54.csproj.AssemblyReference.cache
+C:\Users\SoulStrike\Desktop\HWC#_8\Task_54\obj\Debug\net6.0\Task_54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoulStrike\Desktop\HWC#_8\Task_54\obj\Debug\net6.0\Task_54.AssemblyInfoInputs.cache
+C:\Users\SoulStrike\Desktop\HWC#_8\Task_54\obj\Debug\net6.0\Task_54.AssemblyInfo.cs
+C:\Users\SoulStrike\Desktop\HWC#_8\Task_54\obj\Debug\net6.0\Task_54.csproj.CoreCompileInputs.cache
+C:\Users\SoulStrike\Desktop\HWC#_8\Task_54\obj\Debug\net6.0\Task_54.dll
+C:\Users\SoulStrike\Desktop\HWC#_8\Task_54\obj\Debug\net6.0\refint\Task_54.dll
+C:\Users\SoulStrike\Desktop\HWC#_8\Task_54\obj\Debug\net6.0\Task_54.pdb
+C:\Users\SoulStrike\Desktop\HWC#_8\Task_54\obj\Debug\net6.0\Task_54.genruntimeconfig.cache
+C:\Users\SoulStrike\Desktop\HWC#_8\Task_54\obj\Debug\net6.0\ref\Task_54.dll
